@@ -1,2 +1,2 @@
 # pruebaCAPSE
-Prueba del curso CAPSE
+Prueba para conocer las herramientas
